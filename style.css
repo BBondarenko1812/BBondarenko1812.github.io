@@ -1,0 +1,432 @@
+img
+{
+	width:100%;
+}
+.banner
+{
+	padding-top: 5%;
+	border-bottom:1px solid;
+	border-color:lightseagreen;
+	width: 105%;
+}
+.banner-picture
+{
+
+	position: relative;
+  	top: 0;
+  	left: 0;
+}
+.banner-dots
+{
+	position: absolute;
+	width:10%;
+ 	top: 90%;
+  	left: 45%;
+  	
+}
+.banner-img
+{
+	position: relative;
+  	top: 0;
+  	left: 0;
+  	
+}
+.current-work
+{
+	padding:3%;
+}
+.current-work > img
+{
+	width:70%;
+}
+.headline-our-religion-banner
+{
+	width:40%;
+	padding-bottom: 10px;
+}
+.headline-our-service
+{
+	width:20%;
+	padding: 10px;
+}
+.circle-scheme > img
+{
+	width:40%;
+}
+.circle-scheme
+{
+	position: relative;
+	top:0;
+	left:0;
+	margin-bottom: 10%;
+	width: 100%!important;
+}
+.big-circle
+{
+	position: relative;
+  	top: 0;
+  	left: 30%;
+  	z-index: 0;
+}
+.empower-part
+{
+	position: absolute;
+	top:35%;
+	left:33%;
+	width: 33%!important;
+	z-index:2;
+	transition: all 0.5s;
+}
+.heal-part
+{
+	position: absolute;
+	top:5%;
+	left:32%;
+	width: 27%!important;
+	z-index:2;
+	transition: all 0.5s;
+}
+.heal-part:hover
+{
+	transform: translateX(2%) translateY(2%);
+}
+.empower-part:hover
+{
+	transform: translateX(1%) translateY(-3%);
+}
+.enrich-part
+{
+	position: absolute;
+	top:4%;
+	left:42%;
+	width: 26%!important;
+	z-index:2;
+	transition: all 0.5s;
+}
+.enrich-part:hover
+{
+	transform: translateX(-2%) translateY(1.5%);
+}
+.small-circle
+{
+	position: absolute;
+ 	top: 0;
+  	left: 30%;
+  	z-index: 1;
+}
+.crossed-hands
+{
+	position: absolute;
+	top:45%;
+	left:47.5%;
+	width: 5%!important;
+	z-index:2;
+}
+.healgroup
+{
+	position: absolute;
+	top:12%;
+	left:31.5%;
+	width: 27%!important;
+	z-index:2;
+}
+.circle-text
+{
+	position: absolute;
+	width: 7%!important;
+	z-index:3;
+}
+.divyan
+{
+	top:22.5%;
+	left:58.5%;
+}
+.para
+{
+	width:4%!important;
+	top:40%;
+	left:63.5%;
+}
+.skilldevelopment
+{
+	top:13.5%;
+	left:55%;
+}
+.school
+{
+	width:5%!important;
+	top:60%;
+	left:63%;
+}
+.orp
+{
+	top:82.5%;
+	left:53%;
+}
+.mass
+{
+	width:5%!important;
+	top:77%;
+	left:38%;
+}
+.nca
+{
+	width:2.5%!important;
+	top:82.5%;
+	left:47%;
+}
+.heal-part-blocks
+{
+	padding-top: 50px;
+	position: relative;
+	top:0;
+	left:0;
+	width:100%!important;
+}
+.heal-part-back
+{
+	position: relative;
+	top:0;
+	left:9%;
+	width:91%!important;
+}
+.heal-part-main
+{
+	position: absolute;
+	top:-15%;
+	left:0;
+}
+.empower-part-blocks
+{
+	position: relative;
+	top:0;
+	left:0;
+	margin-top: 5%;
+}
+.empower-part-logo
+{
+	position: absolute;
+	top:2%;
+	left:5%;
+	width: 5%;
+}
+.empower-part-main
+{
+	position: relative;
+	top:0;
+	left:0;
+	width:100%!important;
+}
+.enrich-part-blocks
+{
+	position: relative;
+	top:0;
+	left:0;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+.enrich-part-back
+{
+
+	position:relative;
+	top:0;
+	left:5%;
+	width:95%!important;
+}
+.enrich-part-logo
+{
+	position: absolute;
+	top:0%;
+	left:2%;
+	width:5%;
+}
+.enrich-part-headline
+{
+	position: absolute;
+	top:3%;
+	left:8%;
+	width: 45%
+}
+.enrich-part-group
+{
+	position: absolute;
+	top:12.5%;
+	left:8%;
+	width:30%;
+}
+.enrich-part-masswedding
+{
+	position: absolute;
+	top:22%;
+	left:8%;
+	width:17.5%;
+}
+.enrich-part-lorem1
+{
+	position: absolute;
+	top:30%;
+	left:10%;
+	width:10%;
+}
+.enrich-part-block1
+{
+	position: absolute;
+	top:30%;
+	left:9%;
+	width:0.6%;
+}
+.enrich-part-girl
+{
+	position: absolute;
+	top:30%;
+	left:18%;
+	width:17.5%;
+}
+.enrich-part-arrow1
+{
+	position: absolute;
+	top:27.5%;
+	left:26.5%;
+	width:7.5%;
+}
+.enrich-part-video
+{
+	position: absolute;
+	top:22.5%;
+	left:35%;
+	width:30%;
+}
+.enrich-part-arrow2
+{
+	position: absolute;
+	top:37.5%;
+	left:66%;
+	width:5%;
+}
+.enrich-part-twopeople
+{
+	position: absolute;
+	top:45%;
+	left:70%;
+	width:30%;
+}
+.enrich-part-lorem2
+{
+	position: absolute;
+	top:85%;
+	left:71.5%;
+	width:20%;
+}
+.enrich-part-block2
+{
+	position: absolute;
+	top:85.5%;
+	left:70.75%;
+	width:0.35%;
+}
+.enrich-part-left
+{
+	position: absolute;
+	top:50%;
+	left:3.5%;
+	width:1%;
+}
+.enrich-part-right
+{
+	position: absolute;
+	top:50%;
+	left:100.5%;
+	width:1%;
+}
+.trans-cycle
+{
+	position: relative;
+	top:0;
+	left:0;
+	min-height: 300px;
+	width:100%!important;
+}
+.trans-headline
+{
+	width:30%;
+}
+.orange-back
+{
+	width:13%;
+	position: absolute;
+	top:40%;
+	left:15%;
+}
+.stage1
+{
+	width:20%;
+	position: absolute;
+	top:5%;
+	left:15%;
+}
+.blue-back
+{
+	width:13%;
+	position: absolute;
+	top:41%;
+	left:39.5%;
+}
+.stage2
+{
+	width:20%;
+	position: absolute;
+	top:5%;
+	left:40%;
+}
+.green-back
+{
+	width:13%;
+	position: absolute;
+	top:42.5%;
+	left:64%;
+}
+.stage3
+{
+	width:20%;
+	position: absolute;
+	top:-3.5%;
+	left:65%;
+}
+.trans-arrow1
+{
+	width:3%;
+	position: absolute;
+	top:52.5%;
+	left:35%;
+}
+.trans-arrow2
+{
+	width:3%;
+	position: absolute;
+	top:52.5%;
+	left:60%;
+}
+.patient
+{
+	width: 105%;
+	margin-top:5%;
+}
+.urgent-group
+{
+	position: relative;
+	top:0;
+	left:0;
+	margin-bottom: 5%;
+	min-height: 300px;
+	width:100%!important;
+}
+.urgent-headline
+{
+	width:37.5%;
+	height:50%;
+	margin-bottom: 5%;
+}
+footer
+{
+	width: 105%;
+}
